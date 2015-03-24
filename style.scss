@@ -283,13 +283,19 @@ footer {
   text-align: center;
 }
 
-.img-center{
+.article-img-center{
   clear: both;
   display: block;
   margin: 5px auto 1.5em auto;
   padding: 4px;
   border: 1px solid #ccc;
   border-radius: 4px;
+}
+
+.img-center{
+  clear: both;
+  display: block;
+  margin: 5px auto;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
