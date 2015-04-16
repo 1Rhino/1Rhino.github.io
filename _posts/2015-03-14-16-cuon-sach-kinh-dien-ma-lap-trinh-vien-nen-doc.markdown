@@ -6,6 +6,7 @@ categories: sach-lap-trinh
 ---
 
 Trên thị trường sách lập trình có rất nhiều, blog nói về lập trình cũng rất nhiều, kiến thức về lập trình thì mênh mông rộng lớn. Vậy mình nên chọn sách nào để đọc, kiến thức nào để học cho hiệu quả. Đây là một vấn đề chung cho nhiều lập trình mới vào nghề thậm chí là có kinh nghiệm. Làm thế nào đây?
+<img src="/images/sach-kinh-dien/code-complete-2.jpg" alt="Code Complete 2" class="article-img-center">
 
 Nếu chưa biết phải làm gì thì bước đầu tiên nên làm là tìm hiểu xem: Ai là người thành công trong lĩnh vực mà mình mong muốn và lời khuyên của họ là gì? Rồi thử làm chính xác theo lời khuyên xem kết quả thế nào. Dưới đây là <a href="http://blog.codinghorror.com/recommended-reading-for-developers/" target="_blank">danh sách 16 quyển sách mà lập trình viên nổi tiếng Jeff Atwood</a> (Co-founder of Stack Exchange and Discourse) khuyên chúng ta nên đọc để phát triển tốt hơn trong nghề lập trình. Đây là những quyển sách nổi tiếng và chất lượng. Hãy thử xem mình đã đọc được những quyển sách nào rồi nhé.
 
